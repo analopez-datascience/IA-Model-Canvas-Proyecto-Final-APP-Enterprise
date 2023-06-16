@@ -10,4 +10,6 @@ En primer lugar se plantea la idea utilizando el IA Model Canvas, seguidamente s
 También añadimos a este proyecto dos análisis de dos productos, que podrían derivar en dos posible aplicaciónes:
   -Your Better Exercise
   -Divorce Prediction
-A sendos datasets se les aplicarán modelos para ver si los datos con los que trabajamos son funcionales para nuestro obejtivo y si son de interés para seguir con ese proyecto o descartarlo. 
+  
+  
+A sendos datasets se les aplicarán modelos para ver si los datos con los que trabajamos son funcionales para nuestro objetivo y si son de interés para seguir con ese proyecto o descartarlo. 
